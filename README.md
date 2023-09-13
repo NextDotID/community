@@ -56,8 +56,31 @@ And there’re three types of Delegation Roles:
 
 If one delegation role doesn’t appear in a single activity of any community’s event for more than half a year, this member will automatically be removed from the Community Membership.
 
-## The Incentive System(TBD)
+## **The Incentive System (TBD)**
 
-Early heads-up, Next.ID community serving a public good has no intention of becoming profitable. Take it as more like an NGO. The mechanism that makes it sustainable is more like a “gas fee” in ETH, which only provides the minimum funding. As for rewarding the builders of its way towards the public, SBT-ish none-transferrable NFT will be designed later on, and how many portions of it are linked to the gas fee will also be determined.
+As an open-source Web3 DID protocol, we are currently in the early stages of our project development. Our long-term vision includes the establishment of a DAO (Decentralized Autonomous Organization) to manage and operate the project. To that end, we plan to release a series of community funds and a DAO whitepaper starting in Q4 of 2023.
 
-Feel free to check the current [community-membership.md](https://github.com/nextdotid/community/blob/main/community-membership.md) and apply!
+In anticipation of these developments, we have launched [Next.ID Planet,](https://medium.com/@Next.ID/next-planet-7e7c87687224) a platform that records the contributions and interactions of our community members with the Next.ID ecosystem. These records will serve as one of the bases for future airdrops and community retrospective rewards.
+
+### **Key Milestones:**
+
+- **Q4 2023**: Release of community funds and DAO whitepaper.
+
+### **Contribution Tracking:**
+
+- **Next.ID Planet**: A dedicated platform to track community contributions and interactions, which will be considered for future rewards.
+
+### **Reward Mechanisms:**
+
+- **Airdrops**: Community members who have shown significant contributions may be eligible for airdrops as part of our incentive program.
+- **Community Retrospective Rewards**: Periodic rewards will be given to active community members based on their contributions and engagement, as recorded on Next.ID Planet.
+
+### **Eligibility:**
+
+- All community members are eligible to participate in the incentive program, provided they meet certain criteria, which will be detailed in the forthcoming DAO whitepaper.
+
+### **Transparency:**
+
+- All records of contributions and rewards will be transparent and publicly accessible, aligning with our open-source ethos.
+
+By engaging with the Next.ID community, you're not just contributing to the evolution of a pioneering Web3 DID protocol; you also have the opportunity to benefit from a range of incentive mechanisms as the project matures. Do check out our current **[community-membership.md](https://github.com/nextdotid/community/blob/main/community-membership.md)** and consider applying!
