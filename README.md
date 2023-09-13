@@ -1,60 +1,69 @@
-# Next.ID Community Governance
+# **Next.ID Community Governance**
 
-Welcome to [Next.ID](http://Next.ID) community! We must accomplish many efforts before it becomes a universal DID infrastructure for everyone. Thus a good structure of governance is strongly required.
+Welcome to the **[Next.ID](http://next.id/)** community! Our goal is to become a universal DID infrastructure accessible to everyone. To achieve this, a robust governance structure is essential.
 
-All governance history is not only recorded here on GitHub but also totally open to the public on [this Notion org](https://www.notion.so/Next-ID-Home-0fb4ba9200d6458ab6c4fa81778f6a7b). You’ll have to be at least a Delegation Role of Builder to be a member of that notion.
+Our governance history is fully transparent and recorded not only on GitHub but also on **[this Notion page](https://www.notion.so/Next-ID-Home-0fb4ba9200d6458ab6c4fa81778f6a7b?pvs=21)**. To be a member of this Notion organization, you must hold at least a "Builder" delegation role.
 
-In the journey towards it, we invite you to become a community member to do whatever part you like. 
+We invite you to join our community and contribute in any capacity that interests you.
 
-For now, the community holds mainly five SIGs(Special Interest Group): Development, Product, Developer Advocate, Marketing, and Community.
+Currently, our community is organized into five Special Interest Groups (SIGs): Development, Product, Developer Advocacy, Marketing, and Community.
 
-And there’re three types of Delegation Roles:
+We have three types of Delegation Roles:
 
 | Delegation Role | Description |
 | --- | --- |
-| Builder | - Specializing on one focus or more |
-| Sig-owner | - POC(point of contact) of one focus or more, to coordinate Builder within the scope or cross-functionally |
-| Maintainer | - initiator of the community, steward the project towards massive adoption |
+| Builder | Specializes in one or more focus areas |
+| Sig-owner | Acts as the point of contact for one or more focus areas, coordinating Builders either within a specific scope or cross-functionally |
+| Maintainer | Initiates community activities and steers the project toward widespread adoption |
 
-## Delegation Role
+## **Delegation Roles**
 
-### Builder
+### **Builder**
 
-- Onboard a new one
-    - The nominee personally raises a PR to update community-membership.md
-    - Sponsor by at least one existing Builder
-    - Stands no objection from any other Builder, Sig-Owner or Maintainer
-    - Give it a public notice period for at least one week, and then merge
-- Responsibility
-    - Demonstrating a substantial contribution to one SIG or more
+### Onboarding
 
-### Sig-owner
+- Nominees must submit a PR to update the community-membership.md file.
+- Must be sponsored by at least one existing Builder.
+- Must face no objections from any other Builder, Sig-owner, or Maintainer.
+- A public notice period of at least one week is required before merging the PR.
 
-- Onboard a new one
-    - The nominee personally raises a PR to update community-membership.md
-    - Sponsor by at least one existing Sig-owner
-    - Passed by 2/3 majority vote of Sig-owners
-    - Stands no objection from any Maintainer
-    - Give it a public notice period for at least one week, and then merge
-- Responsibility
-    - Demonstrating a substantial contribution to one SIG or more
-    - Showing a great leadership of SIG member's growth and their output
+### Responsibilities
 
-### Maintainer
+- Must demonstrate substantial contributions to one or more SIGs.
 
-- Onboard a new one
-    - The nominee personally raises a PR to update community-membership.md
-    - Sponsor by at least one existing Maintainer
-    - Passed by 2/3 majority vote of Maintainer
-    - Stands no objection from any Maintainer
-    - Give it a public notice period for at least one week, and then merge
-- Responsibility
-    - Demonstrating a substantial contribution to one SIG or more
-    - Showing a great leadership of Next.ID’s roadmap and its massive adoption progress
+### **Sig-owner**
 
-## Retirement of Delegation Role
+### Onboarding
 
-If one delegation role doesn’t appear in a single activity of any community’s event for more than half a year, this member will automatically be removed from the Community Membership.
+- Nominees must submit a PR to update the **[community-membership.md](https://github.com/nextdotid/community/blob/main/community-membership.md)** file.
+- Must be sponsored by at least one existing Sig-owner.
+- Must be approved by a 2/3 majority vote of existing Sig-owners.
+- Must face no objections from any Maintainer.
+- A public notice period of at least one week is required before merging the PR.
+
+### Responsibilities
+
+- Must demonstrate substantial contributions to one or more SIGs.
+- Must show excellent leadership in fostering SIG member growth and output.
+
+### **Maintainer**
+
+### Onboarding
+
+- Nominees must submit a PR to update the **[community-membership.md](https://github.com/nextdotid/community/blob/main/community-membership.md)** file.
+- Must be sponsored by at least one existing Maintainer.
+- Must be approved by a 2/3 majority vote of existing Maintainers.
+- Must face no objections from any other Maintainer.
+- A public notice period of at least one week is required before merging the PR.
+
+### Responsibilities
+
+- Must demonstrate substantial contributions to one or more SIGs.
+- Must show excellent leadership in guiding Next.ID's roadmap and its adoption progress.
+
+## **Retirement of Delegation Roles**
+
+Members holding a delegation role who do not participate in any community activities for more than six months will be automatically removed from Community Membership.
 
 ## **The Incentive System (TBD)**
 
