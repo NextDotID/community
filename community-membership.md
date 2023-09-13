@@ -1,20 +1,19 @@
 
 Builder
 
-- Chris Soh(@s-h-h-is) - Marketing
-- Charlene(@charlenechannextidsimp) - Marketing
-- Wen Wei(@kingsnakeee) - Marketing
-- JiaJun Zeng(@zengjiajun0623) - Developer Advocate
+- Billy Shi(@BillySh1) - Development
+- Mitch(@hmqgg) - Development
 - Sannie Feng(@fengshanshan) - Development
 - Zella Zhong(@ZhongFuze) - Development
+- David Phillips(@davidpco)- Developer Advocate
 
 Sig-owner
 
 - Wei Duan(@BinaryHB0916), Community & Docs
 - Hannah Shen(@hehe031), Marketing
-- Homin Luo(@hominluo), Developer Advocate
-- Yan Zhu(@picturepan2), Product Design & Demos
-- Nyk Ma(@nykma), Development & Roadmap
+- Homin Luo(@hominluo), Product Steward
+- Yan Zhu(@picturepan2), Web3.bio
+- Nyk Ma(@nykma), Development Steward
 
 Maintainer
 
